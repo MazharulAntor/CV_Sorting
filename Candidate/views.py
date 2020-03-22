@@ -44,6 +44,6 @@ def handleResume(request):
 
             candidate.save()
 
-            return render(request, "Authority/sorted_list.html", {})
+            return render(request, "Candidate/cv_form.html", {})
 
     return render(request, "Candidate/cv_form.html", {})
