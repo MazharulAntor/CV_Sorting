@@ -2,11 +2,18 @@ import os
 from django.shortcuts import render
 from pyresparser import ResumeParser
 
+
 from Authority.models import Skill
 from Candidate.models import Resume, Candidate
 
 
+def personal(request):
+
+    return render(request, 'Candidate/index.html', {})
+
+
 def handleResume(request):
+
     if request.method == 'POST':
         base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         print('post')
@@ -44,6 +51,6 @@ def handleResume(request):
 
             candidate.save()
 
-            return render(request, "Candidate/cv_form.html", {})
+            return render(request, "Authority/sorted_list.html", {})
 
     return render(request, "Candidate/cv_form.html", {})
