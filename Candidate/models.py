@@ -20,5 +20,11 @@ class Candidate(models.Model):
     skills_score = models.FloatField()
     experiences_skills_combined_score = models.FloatField()
 
+
+class Personal(models.Model):
+
+    email = models.EmailField(max_length=100)
+    score = models.IntegerField()
+
     def __str__(self):
         return self.email

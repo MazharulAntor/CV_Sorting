@@ -7,6 +7,8 @@ from Candidate.models import Candidate
 
 
 def sorted_list_3(request):
+    if 'username' not in request.session:
+        return render(request, "Account/login.html", {})
     candidates = Candidate.objects.all()
     candidates = list(candidates)
     candidates.sort(key=lambda c: c.experiences_skills_combined_score, reverse=True)
@@ -14,6 +16,8 @@ def sorted_list_3(request):
 
 
 def sorted_list_2(request):
+    if 'username' not in request.session:
+        return render(request, "Account/login.html", {})
     candidates = Candidate.objects.all()
     candidates = list(candidates)
     candidates.sort(key=lambda c: c.skills_score, reverse=True)
@@ -22,6 +26,8 @@ def sorted_list_2(request):
 
 
 def sorted_list_1(request):
+    if 'username' not in request.session:
+        return render(request, "Account/login.html", {})
     candidates = Candidate.objects.all()
     candidates = list(candidates)
     candidates.sort(key=lambda c: c.total_experiences, reverse=True)
@@ -30,10 +36,15 @@ def sorted_list_1(request):
 
 
 def home(request):
+    if 'username' not in request.session:
+        return render(request, "Account/login.html", {})
+
     return render(request, "Authority/sorted_list.html", {})
 
-
 def sendEmail1(request):
+
+    if 'username' not in request.session:
+        return render(request, "Account/login.html", {})
     top_candidates = TopCandidates.objects.all()
     candidates = Candidate.objects.all()
     candidates = list(candidates)
@@ -43,6 +54,8 @@ def sendEmail1(request):
 
 
 def sendEmail2(request):
+    if 'username' not in request.session:
+        return render(request, "Account/login.html", {})
     top_candidates = TopCandidates.objects.all()
     candidates = Candidate.objects.all()
     candidates = list(candidates)

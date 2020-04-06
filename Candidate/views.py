@@ -12,6 +12,14 @@ def personal(request):
     return render(request, 'Candidate/index.html', {})
 
 
+def con(request):
+    return render(request, 'Candidate/contactbase.html', {})
+
+
+def contact(request):
+    return render(request, 'Candidate/contact.html', {})
+
+
 def handleResume(request):
 
     if request.method == 'POST':

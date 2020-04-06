@@ -94,11 +94,9 @@ $(document).ready(function(){
        rang=0;
 
      }
-  var a = document.getElementById('message').innerHTML= messages[rang];
-  var b =document.getElementById('curretNumber').innerHTML ="You got "+ correct + " Correct.";
-  document.getElementById('aftarSubmit').innerHTML=a + ' \n' +b;
-
-
+   /*var a = document.getElementById('message').innerHTML= messages[rang];*/
+  var b =document.getElementById('curretNumber').innerHTML = correct ;
+  document.getElementById('aftarSubmit').innerHTML= b;
 
 
   })

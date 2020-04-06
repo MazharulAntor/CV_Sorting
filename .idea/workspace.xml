@@ -1,7 +1,367 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf2a8160-5366-4b98-b4ab-8e9d23d84d7c" name="Default Changelist" comment="" />
+    <list default="true" id="bf2a8160-5366-4b98-b4ab-8e9d23d84d7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/fonts/poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/images/bg-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/images/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/animsition/css/animsition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/animsition/css/animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/animsition/js/animsition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/animsition/js/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/countdowntime/countdowntime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/daterangepicker/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/Login_v3/vendor/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/._Login_v3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/._fonts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/._images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/._js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/._vendor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/css/._main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/css/._util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/._font-awesome-4.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/._iconic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/._poppins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/._HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/._fonts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/._less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/._scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/css/._font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/css/._font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/fonts/._FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/fonts/._fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/less/._variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/.__variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/font-awesome-4.7.0/scss/._font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/._fonts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/css/._material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/css/._material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/fonts/._Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/fonts/._Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/fonts/._Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/fonts/._Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/iconic/fonts/._Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/fonts/poppins/._Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/images/._bg-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/images/._icons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/images/icons/._favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/js/._main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._animate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._animsition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._bootstrap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._countdowntime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._css-hamburgers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._daterangepicker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._jquery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._perfect-scrollbar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/._select2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animate/._animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animsition/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animsition/._js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animsition/css/._animsition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animsition/css/._animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animsition/js/._animsition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/animsition/js/._animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/._css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/._js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/css/._bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/js/._bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/js/._bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/js/._popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/js/._popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/bootstrap/js/._tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/countdowntime/._countdowntime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/css-hamburgers/._hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/css-hamburgers/._hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/daterangepicker/._daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/daterangepicker/._daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/daterangepicker/._moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/daterangepicker/._moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/jquery/._jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/perfect-scrollbar/._perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/perfect-scrollbar/._perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/select2/._select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/select2/._select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/select2/._select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/__MACOSX/Login_v3/vendor/select2/._select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/fonts/poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/images/bg-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/images/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/images/interview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/animsition/css/animsition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/animsition/css/animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/animsition/js/animsition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/animsition/js/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/countdowntime/countdowntime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/daterangepicker/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/static/Account/vendor/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/templates/Account/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authority/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authority/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authority/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authority/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authority/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authority/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authority/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Authority/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Sorting/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Sorting/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV_Sorting/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Sorting/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/templates/Candidate/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/templates/Candidate/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/templates/Candidate/cv_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/templates/Candidate/cv_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/templates/Candidate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/templates/Candidate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Candidate/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Candidate/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/statics/js/main.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +389,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/statics/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Account" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Project\CV_Sorting\statics\css" />
+      <recent name="F:\Project\CV_Sorting\Account" />
       <recent name="F:\Project\CV_Sorting\Candidate\templates\Candidate" />
-      <recent name="F:\Project\CV_Sorting\templates" />
+      <recent name="F:\Project\CV_Sorting\statics\authority" />
+      <recent name="F:\Project\CV_Sorting\statics\authority\css" />
+      <recent name="F:\Project\CV_Sorting\statics\authority\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Project\CV_Sorting\Candidate\templates\Candidate" />
       <recent name="F:\Project\CV_Sorting\statics\css" />
+      <recent name="F:\Project\CV_Sorting\Authority\templates\Authority" />
       <recent name="F:\Project\CV_Sorting\statics\js" />
       <recent name="D:\Project\CV_Sorting\Candidate\templates\Candidate" />
     </key>
